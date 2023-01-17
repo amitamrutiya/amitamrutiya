@@ -2,7 +2,8 @@
 
 
 # 💫 About Me:
-😄 Pronouns: He/His <br>🔭 I'm currently working on Mobile application Development In flutter.<br>🌱 I'm currently learning more about Blockchain.<br>👯 I'm looking to collaborate on LinkedIn.<br>💬 Ask me about Flutter of any tech-related stuff.<br>📫 How to reach me: Twitter - @AmitAmrutiya2, LinkedIn - @amitamrutiya 
+😄 Pronouns: He/His <br>🔭 I'm currently working on Mobile application Development In flutter.<br>🌱 I'm currently learning more about Backend. <br>
+👯 I'm looking to collaborate on LinkedIn.<br>💬 Ask me about Flutter of any tech-related stuff.<br>📫 How to reach me: Twitter - @AmitAmrutiya2, LinkedIn - @amitamrutiya 
 
 
 ## 🌐 Socials:
