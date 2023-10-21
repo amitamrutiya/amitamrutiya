@@ -1,4 +1,4 @@
-## Hola, 👋 I'm Amit Amrutiya! 
+## Namaste, 👋 I'm Amit Amrutiya! 
 
 
 # 💫 About Me:
