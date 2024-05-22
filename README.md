@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-😄 Pronouns: He/His <br>🔭 I'm currently working on Full stack Web Development .<br>🌍 I'm currently exploring Web3 and Bitcoin ecosystem .<br>🌱 I'm quite confident with full stack development in both mobile and web development.<br>
+😄 Pronouns: He/His <br>🔭 I'm currently working on Full stack Web Development.<br>🌍 I'm currently exploring Web3 and Bitcoin ecosystem.<br>🌱 I'm quite confident with full stack development in both mobile and web development.<br>
 👯 I'm looking to collaborate on LinkedIn.<br>💬 Ask me about of any tech-related stuff.<br>
 
 
